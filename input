@@ -1,0 +1,6 @@
+5   9     //商品数目，商品满减价格，即满9元的意思，减多少不用输入
+"c++primer" 2
+"doupocangqiong" 2
+"car" 4
+"kitty" 6
+"note" 3
